@@ -4,7 +4,7 @@ Laboratorio personal para practicar hacking ético y desarrollar conocimientos d
 
 ## Estado
 
-Laboratorio en desarrollo. Primera prueba documentada: conectividad ICMP desde Kali hacia Metasploitable Ubuntu, con 11 respuestas de 11 paquetes enviados y 0 % de pérdida. La IP de Kali y la verificación completa del aislamiento siguen pendientes.
+Laboratorio en desarrollo. Conectividad ICMP documentada desde Kali hacia Metasploitable Ubuntu (11/11 respuestas) y Metasploitable Windows (6/6 respuestas), ambas con 0 % de pérdida. La IP de Kali y la verificación completa del aislamiento siguen pendientes.
 
 ## Objetivos
 
@@ -15,6 +15,7 @@ Laboratorio en desarrollo. Primera prueba documentada: conectividad ICMP desde K
 
 ## Documentación
 
+- [Conectividad: Kali → Metasploitable Windows](docs/conectividad-kali-windows.md)
 - [Primera prueba de conectividad: Kali → Ubuntu](docs/conectividad-kali-ubuntu.md)
 - [Plan del laboratorio](docs/plan-del-laboratorio.md)
 - [Plantilla de instalación o configuración](plantillas/configuracion.md)
