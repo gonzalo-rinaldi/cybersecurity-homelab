@@ -31,9 +31,3 @@ Laboratorio en desarrollo. Primera prueba documentada: conectividad ICMP desde K
 ## Alcance
 
 Las pruebas se realizarán en sistemas propios o expresamente autorizados. Las máquinas vulnerables no deben exponerse a Internet. Las evidencias publicadas deben excluir credenciales, datos personales y secretos.
-
-## Formación de referencia
-
-[Curso completo de Hacking Ético y Ciberseguridad — Santiago Hernández](https://www.udemy.com/course/curso-completo-de-hacking-etico-y-ciberseguridad/).
-
-La documentación incorporará explicaciones y resultados propios, diferenciando prácticas guiadas de trabajo independiente.
